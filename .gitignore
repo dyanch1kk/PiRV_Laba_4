@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.suo
+*.VC.db
+*.vscode/
+*.vsidx
+*.log
+*.obj
+*.exe
+*.cache
